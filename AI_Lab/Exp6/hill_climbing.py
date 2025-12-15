@@ -1,3 +1,4 @@
+#Exp6: Hill Climbing Algorithm Implementation
 tree = {
     'A': [('B', 3), ('C', 5), ('K', 10)],  
     'B': [('D', 1), ('E', 0)],
@@ -42,3 +43,4 @@ def hill(tree, start, goal):
     print("Goal not found!")
 
 hill(tree, start, goal)
+
