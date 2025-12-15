@@ -1,4 +1,4 @@
-#Exp 6: Steepest Ascent Hill Climbing Algorithm Implementation
+#Exp6 B: Steepest Ascent Hill Climbing Algorithm Implementation
 tree = {
     'A': [('B', 3), ('C', 5), ('K', 10)],
     'B': [('D', 1), ('E', 0)],
@@ -38,4 +38,5 @@ def Hill_Climbing(tree, start, goal):
     print("Goal node not found!")
 
 Hill_Climbing(tree, start, goal)
+
 
