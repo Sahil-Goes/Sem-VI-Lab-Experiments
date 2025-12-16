@@ -1,3 +1,4 @@
+#Exp 7: Code to play tic tac toe using python
 def print_board(board): 
     print("-" * 13) 
     for row in board: 
@@ -69,3 +70,4 @@ while True:
         current_player = "O"
     else:
         current_player = "X"
+
