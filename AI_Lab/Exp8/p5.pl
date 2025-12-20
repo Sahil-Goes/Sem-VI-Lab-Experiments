@@ -1,0 +1,9 @@
+symptom(moderate_cough, flu).
+symptom(chills, flu).
+symptom(severe_body_ache, flu).
+symptom(running_nose, flu).
+symptom(chills, chickenpox).
+symptom(high_fever, chickenpox).
+symptom(mild_body_ache, cold).
+symptom(running_nose, cold).
+symptom(chills, cold).
